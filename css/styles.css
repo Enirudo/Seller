@@ -1,0 +1,27 @@
+.menu-container {
+    display: flex;
+    padding: 10px;
+    background-color: red;
+}
+
+.menu {
+    display: flex;    
+    align-items: center;
+    justify-content: space-between;    
+    width: 100%;
+}
+
+.menu a {
+    display: flex;
+    color: white;
+}
+
+.menu img {
+    display: flex;
+}
+
+a {
+    /* color: white; */
+    text-decoration: none;
+    padding: 10px;
+}
