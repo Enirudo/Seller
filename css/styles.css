@@ -72,7 +72,6 @@ a {
 
 .sidebar-container {
     display: flex;
-    align-self: flex-end;
     width: 300px;
     background-color: red;
     border: solid 1px black;
